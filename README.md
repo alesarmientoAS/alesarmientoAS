@@ -9,5 +9,4 @@ I like to think of myself as a: clients, product,marketing,  tech,data and stake
  ![website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexandra-sarmiento-nino%2F&up_message=LinkedIn%20Profile&up_color=blue&down_message=LinkedIn%20Profile&down_color=blue&style=for-the-badge&labelColor=light%20gray
 )
 
-- ⚡ Fun fact: ...
 -->
